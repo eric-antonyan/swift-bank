@@ -34,7 +34,7 @@ npm run dev
 ## Run client interface Front End
 
 ```bash
-# Navigate server folder
+# Navigate client folder
 cd client
 
 # Install dependencies
